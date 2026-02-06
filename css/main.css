@@ -697,7 +697,9 @@ img {
     letter-spacing: 0%;
     text-align: center;
   }
-
+  .login__left{
+    width: 357px;
+  }
   .footer__wrapper {
     flex-direction: column;
     padding: 50px 20px 85px 20px;
